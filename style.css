@@ -1,4 +1,11 @@
-/* CSS gradient animator*/
+/*https://cssgradient.io/
+ CSS gradient animator
+https://www.gradient-animator.com/
+ttps://media.giphy.com/
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@1,700&display=swap');
+
 body{
 display: flex;
   flex-direction: column;
@@ -7,7 +14,9 @@ display: flex;
   min-height: 100vh;
   padding-bottom: 2rem;
   margin: 5%;
-  background-image: url("https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif");
+  background-image: url("https://media.giphy.com/media/xT9IgN8YKRhByRBzMI/giphy-downsized-large.gif");
+  font-family: 'Ubuntu Mono', monospace;
+  font-co
   background-repeat: no-repeat;
   background-size: cover;
 }
